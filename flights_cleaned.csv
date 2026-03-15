@@ -1,0 +1,321 @@
+date,airline,flight_number,origin,destination,original_route,new_route,original_distance_km,new_distance_km,additional_distance_km,extra_fuel_cost_usd,delay_hours
+2026-02,Gulf Air,GU****,Middle East,South Asia,Via Strait of Hormuz,Southern Route,6000+,6000+,1001-3000,High,3-6 hrs
+2026-02,Iran Air,IR****,North America,Middle East,Via Iran/Iraq corridor,Northern Route,3001-6000,3001-6000,1001-3000,Very High,3-6 hrs
+2026-02,Malaysia Airlines,MA****,Middle East,Middle East,Direct Tehran overfly,Central Asia Route,3001-6000,3001-6000,0-1000,Very High,3-6 hrs
+2026-02,Gulf Air,GU****,South Asia,Middle East,Via Persian Gulf,Southern Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-02,Emirates SkyCargo,EM****,Middle East,Europe,Direct Tehran overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-02,FedEx Express,FE***,Middle East,Europe,Direct Gulf route,Alternate Route,1001-3000,3001-6000,0-1000,High,1-3 hrs
+2026-02,Gulf Air,GU****,Middle East,North America,Direct Tehran overfly,Central Asia Route,3001-6000,6000+,0-1000,Very High,3-6 hrs
+2026-02,DHL Aviation,DH****,Middle East,North America,Via Iran/Iraq corridor,Northern Route,6000+,6000+,0-1000,Very High,1-3 hrs
+2026-02,Mahan Air,MA****,Middle East,Middle East,Direct Middle East overfly,Central Asia Route,3001-6000,6000+,1001-3000,Very High,1-3 hrs
+2026-02,Turkish Airlines,TU****,North America,Middle East,Direct Gulf route,Alternate Route,6000+,6000+,0-1000,High,3-6 hrs
+2026-02,Air India,AI****,Europe,Middle East,Direct Middle East overfly,Central Asia Route,1001-3000,3001-6000,1001-3000,Very High,3-6 hrs
+2026-02,Lufthansa,LU****,South Asia,Middle East,Via Iran/Iraq corridor,Northern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-02,Ethiopian Airlines,ET****,East Asia,Middle East,Via Iran/Iraq corridor,Southern Route,3001-6000,3001-6000,1001-3000,Very High,3-6 hrs
+2026-02,Singapore Airlines,SI****,Europe,Middle East,Via Persian Gulf,Southern Route,1001-3000,3001-6000,3001-6000,Very High,3-6 hrs
+2026-02,Saudi Arabian Airlines,SA****,Middle East,Middle East,Via Iran/Iraq corridor,Northern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-02,American Airlines,AM****,Europe,Middle East,Via Iran/Iraq corridor,Southern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-02,Pakistan International Airlines,PA****,Middle East,South Asia,Direct Middle East overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-02,Gulf Air,GU****,Europe,Middle East,Direct Gulf route,Alternate Route,3001-6000,3001-6000,0-1000,High,1-3 hrs
+2026-02,Mahan Air,MA****,Middle East,South Asia,Via Persian Gulf,Southern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-02,Singapore Airlines,SI****,Europe,Middle East,Direct Gulf route,Alternate Route,6000+,6000+,0-1000,Very High,0-1 hr
+2026-02,Thai Airways,TH****,Middle East,North America,Direct Tehran overfly,Central Asia Route,3001-6000,3001-6000,1001-3000,Very High,3-6 hrs
+2026-02,Iran Air,IR****,Middle East,South Asia,Direct Tehran overfly,Central Asia Route,3001-6000,6000+,0-1000,High,1-3 hrs
+2026-02,American Airlines,AM****,Middle East,Europe,Via Baghdad FIR,Northern Route,3001-6000,3001-6000,0-1000,High,3-6 hrs
+2026-02,Singapore Airlines,SI****,Middle East,Middle East,Via Iran/Iraq corridor,Southern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-02,Emirates,EM****,Middle East,South Asia,Via Persian Gulf,Southern Route,3001-6000,3001-6000,1001-3000,Very High,1-3 hrs
+2026-02,Emirates SkyCargo,EM****,Europe,Middle East,Direct Tehran overfly,Central Asia Route,3001-6000,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Pakistan International Airlines,PA****,Middle East,North America,Direct Tehran overfly,Central Asia Route,1001-3000,3001-6000,1001-3000,Very High,3-6 hrs
+2026-03,Saudi Arabian Airlines,SA****,Europe,Middle East,Via Strait of Hormuz,Southern Route,6000+,6000+,0-1000,Very High,3-6 hrs
+2026-03,Qatar Airways,QA****,South Asia,Middle East,Direct Tehran overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Cargolux,CA****,Middle East,Middle East,Direct Tehran overfly,Central Asia Route,1001-3000,3001-6000,0-1000,High,3-6 hrs
+2026-03,American Airlines,AM****,Europe,Middle East,Direct Tehran overfly,Central Asia Route,6000+,6000+,1001-3000,High,3-6 hrs
+2026-03,Oman Air,OM****,Middle East,Middle East,Direct Tehran overfly,Central Asia Route,3001-6000,3001-6000,1001-3000,Very High,1-3 hrs
+2026-03,Gulf Air,GU****,Middle East,Europe,Via Strait of Hormuz,Southern Route,6000+,6000+,0-1000,High,3-6 hrs
+2026-03,British Airways,BR****,East Asia,Middle East,Direct Gulf route,Alternate Route,3001-6000,6000+,0-1000,Very High,1-3 hrs
+2026-03,Singapore Airlines,SI****,Europe,Middle East,Via Strait of Hormuz,Southern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Air Arabia,AI***,Europe,Middle East,Via Iran/Iraq corridor,Northern Route,3001-6000,3001-6000,1001-3000,Very High,1-3 hrs
+2026-03,Turkish Airlines,TU****,Middle East,Europe,Via Baghdad FIR,Northern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Emirates SkyCargo,EM****,Europe,Middle East,Via Strait of Hormuz,Southern Route,3001-6000,3001-6000,1001-3000,Very High,1-3 hrs
+2026-03,Malaysia Airlines,MA****,Middle East,South Asia,Via Baghdad FIR,Northern Route,6000+,6000+,1001-3000,High,1-3 hrs
+2026-03,Thai Airways,TH****,Middle East,Middle East,Direct Gulf route,Alternate Route,3001-6000,6000+,1001-3000,High,1-3 hrs
+2026-03,Cargolux,CA****,Europe,Middle East,Direct Gulf route,Alternate Route,1001-3000,3001-6000,0-1000,High,1-3 hrs
+2026-03,Pakistan International Airlines,PA***,Middle East,South Asia,Via Iran/Iraq corridor,Southern Route,3001-6000,6000+,1001-3000,Very High,0-1 hr
+2026-03,Air India,AI***,Europe,Middle East,Via Iran/Iraq corridor,Southern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,DHL Aviation,DH****,Europe,Middle East,Via Baghdad FIR,Northern Route,6000+,6000+,0-1000,High,3-6 hrs
+2026-03,DHL Aviation,DH****,Middle East,Middle East,Direct Middle East overfly,Central Asia Route,3001-6000,6000+,0-1000,High,1-3 hrs
+2026-03,IndiGo,IN****,Europe,Middle East,Via Strait of Hormuz,Southern Route,1001-3000,3001-6000,0-1000,High,1-3 hrs
+2026-03,Etihad Airways,ET****,Middle East,North America,Via Iran/Iraq corridor,Southern Route,6000+,6000+,1001-3000,Very High,0-1 hr
+2026-03,flydubai,FL****,South Asia,Middle East,Direct Middle East overfly,Central Asia Route,1001-3000,3001-6000,1001-3000,Very High,1-3 hrs
+2026-03,Air Arabia,AI****,South Asia,Middle East,Via Iran/Iraq corridor,Southern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Singapore Airlines,SI****,Middle East,Australia,Direct Middle East overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Thai Airways,TH****,Middle East,South Asia,Via Strait of Hormuz,Southern Route,3001-6000,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Cargolux,CA****,Australia,Middle East,Direct Gulf route,Alternate Route,6000+,6000+,1001-3000,High,1-3 hrs
+2026-03,Air Arabia,AI****,Middle East,Europe,Via Strait of Hormuz,Southern Route,3001-6000,3001-6000,0-1000,High,0-1 hr
+2026-03,Cargolux,CA****,Middle East,South Asia,Direct Middle East overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,0-1 hr
+2026-03,Qatar Airways,QA****,Middle East,Middle East,Direct Tehran overfly,Central Asia Route,1001-3000,3001-6000,1001-3000,Very High,3-6 hrs
+2026-03,EgyptAir,EG****,South Asia,Middle East,Direct Middle East overfly,Central Asia Route,3001-6000,3001-6000,1001-3000,Very High,3-6 hrs
+2026-03,Iran Air,IR****,Europe,Middle East,Direct Gulf route,Alternate Route,6000+,6000+,0-1000,High,3-6 hrs
+2026-03,Delta Air Lines,DE***,Middle East,South Asia,Via Strait of Hormuz,Southern Route,3001-6000,3001-6000,1001-3000,Very High,1-3 hrs
+2026-03,Jazeera Airways,JA****,Europe,Middle East,Via Iran/Iraq corridor,Southern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Air France,AI****,South Asia,Middle East,Direct Gulf route,Alternate Route,3001-6000,3001-6000,1001-3000,High,1-3 hrs
+2026-03,Air France,AI****,Middle East,North America,Via Iran/Iraq corridor,Northern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Lufthansa,LU****,Europe,Middle East,Direct Middle East overfly,Central Asia Route,1001-3000,3001-6000,1001-3000,Very High,1-3 hrs
+2026-03,Kuwait Airways,KU****,South Asia,Middle East,Via Iran/Iraq corridor,Southern Route,3001-6000,3001-6000,1001-3000,Very High,1-3 hrs
+2026-03,British Airways,BR****,Middle East,Middle East,Via Iran/Iraq corridor,Northern Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Singapore Airlines,SI****,Middle East,Europe,Via Baghdad FIR,Northern Route,6000+,6000+,1001-3000,Very High,0-1 hr
+2026-03,Turkish Airlines,TU****,Middle East,Middle East,Direct Middle East overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Mahan Air,MA****,Middle East,Europe,Direct Middle East overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,British Airways,BR****,South Asia,Middle East,Direct Middle East overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Oman Air,OM****,Europe,Middle East,Via Strait of Hormuz,Southern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Cargolux,CA****,Middle East,Europe,Via Iran/Iraq corridor,Southern Route,3001-6000,3001-6000,1001-3000,Very High,1-3 hrs
+2026-03,Qatar Airways,QA****,Middle East,Middle East,Via Persian Gulf,Southern Route,1001-3000,6000+,3001-6000,Very High,3-6 hrs
+2026-03,Lufthansa,LU****,Middle East,Middle East,Via Iran/Iraq corridor,Southern Route,3001-6000,6000+,1001-3000,Very High,1-3 hrs
+2026-03,American Airlines,AM****,Middle East,Middle East,Via Baghdad FIR,Northern Route,3001-6000,6000+,0-1000,High,1-3 hrs
+2026-03,Pakistan International Airlines,PA***,Europe,Middle East,Via Persian Gulf,Southern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,FedEx Express,FE****,South Asia,Middle East,Via Iran/Iraq corridor,Southern Route,3001-6000,6000+,1001-3000,Very High,1-3 hrs
+2026-03,KLM,KL****,South Asia,Middle East,Via Strait of Hormuz,Southern Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Emirates SkyCargo,EM***,Middle East,North America,Direct Middle East overfly,Central Asia Route,1001-3000,3001-6000,0-1000,Very High,1-3 hrs
+2026-03,Air France,AI****,Australia,Middle East,Direct Gulf route,Alternate Route,6000+,6000+,0-1000,High,1-3 hrs
+2026-03,Kuwait Airways,KU****,Middle East,Middle East,Direct Gulf route,Alternate Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Singapore Airlines,SI****,Middle East,Europe,Via Baghdad FIR,Northern Route,3001-6000,3001-6000,1001-3000,Very High,1-3 hrs
+2026-03,United Airlines,UN****,Middle East,Europe,Direct Middle East overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Etihad Airways,ET****,Europe,Middle East,Via Iran/Iraq corridor,Northern Route,3001-6000,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Kuwait Airways,KU****,Middle East,Middle East,Direct Tehran overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Jazeera Airways,JA****,Middle East,South Asia,Via Iran/Iraq corridor,Southern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,FedEx Express,FE***,Middle East,South Asia,Via Persian Gulf,Southern Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Malaysia Airlines,MA****,Middle East,South Asia,Via Iran/Iraq corridor,Northern Route,3001-6000,3001-6000,1001-3000,High,1-3 hrs
+2026-03,American Airlines,AM****,Middle East,Middle East,Via Baghdad FIR,Northern Route,1001-3000,3001-6000,0-1000,Very High,0-1 hr
+2026-03,Air Arabia,AI****,Middle East,Middle East,Direct Tehran overfly,Central Asia Route,3001-6000,6000+,1001-3000,Very High,1-3 hrs
+2026-03,EgyptAir,EG****,Europe,Middle East,Via Iran/Iraq corridor,Northern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Air India,AI****,Middle East,Middle East,Via Iran/Iraq corridor,Northern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,flydubai,FL****,Europe,East Asia,Via Strait of Hormuz,Southern Route,3001-6000,3001-6000,0-1000,High,1-3 hrs
+2026-03,Thai Airways,TH****,Middle East,Middle East,Via Strait of Hormuz,Southern Route,3001-6000,3001-6000,1001-3000,Very High,3-6 hrs
+2026-03,Emirates SkyCargo,EM****,Europe,East Asia,Direct Middle East overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Iran Air,IR****,Middle East,Middle East,Via Iran/Iraq corridor,Southern Route,6000+,6000+,1001-3000,Very High,0-1 hr
+2026-03,Lufthansa,LU***,Middle East,Middle East,Direct Gulf route,Alternate Route,6000+,6000+,0-1000,High,3-6 hrs
+2026-03,Gulf Air,GU****,Middle East,Europe,Direct Middle East overfly,Central Asia Route,1001-3000,3001-6000,1001-3000,Very High,1-3 hrs
+2026-03,Etihad Airways,ET***,South Asia,Middle East,Via Baghdad FIR,Northern Route,6000+,6000+,0-1000,High,3-6 hrs
+2026-03,Cathay Pacific,CA****,Middle East,Europe,Via Baghdad FIR,Northern Route,3001-6000,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Cathay Pacific,CA****,Middle East,Middle East,Via Baghdad FIR,Northern Route,3001-6000,6000+,1001-3000,Very High,3-6 hrs
+2026-03,United Airlines,UN****,South Asia,Middle East,Via Baghdad FIR,Northern Route,3001-6000,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Qatar Airways,QA****,Middle East,South Asia,Via Persian Gulf,Southern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Singapore Airlines,SI****,Middle East,East Asia,Direct Tehran overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Kuwait Airways,KU****,Middle East,Middle East,Direct Middle East overfly,Central Asia Route,6000+,6000+,0-1000,High,1-3 hrs
+2026-03,IndiGo,IN****,Middle East,Middle East,Via Persian Gulf,Southern Route,3001-6000,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Singapore Airlines,SI****,Middle East,Middle East,Via Iran/Iraq corridor,Southern Route,3001-6000,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Air Arabia,AI****,North America,Middle East,Via Baghdad FIR,Northern Route,3001-6000,3001-6000,0-1000,High,3-6 hrs
+2026-03,Emirates,EM****,Middle East,Middle East,Via Baghdad FIR,Northern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Ethiopian Airlines,ET****,Middle East,Europe,Direct Tehran overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Oman Air,OM****,Middle East,Middle East,Direct Middle East overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,American Airlines,AM****,Middle East,Europe,Via Persian Gulf,Southern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,flydubai,FL****,Middle East,Middle East,Via Strait of Hormuz,Southern Route,1001-3000,3001-6000,1001-3000,Very High,0-1 hr
+2026-03,Turkish Airlines,TU****,South Asia,Middle East,Via Iran/Iraq corridor,Northern Route,3001-6000,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Malaysia Airlines,MA****,Middle East,Middle East,Direct Gulf route,Alternate Route,1001-3000,1001-3000,0-1000,High,1-3 hrs
+2026-03,Kuwait Airways,KU****,South Asia,Middle East,Direct Tehran overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,0-1 hr
+2026-03,Turkish Airlines,TU****,Middle East,South Asia,Via Iran/Iraq corridor,Northern Route,3001-6000,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Qatar Airways,QA****,Middle East,Middle East,Direct Middle East overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Oman Air,OM****,Middle East,Middle East,Via Strait of Hormuz,Southern Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Ethiopian Airlines,ET***,East Asia,Middle East,Via Baghdad FIR,Northern Route,3001-6000,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Mahan Air,MA****,Middle East,Middle East,Direct Gulf route,Alternate Route,1001-3000,1001-3000,0-1000,High,1-3 hrs
+2026-03,EgyptAir,EG****,Middle East,Middle East,Direct Gulf route,Alternate Route,6000+,6000+,0-1000,High,1-3 hrs
+2026-03,FedEx Express,FE****,Middle East,Middle East,Direct Middle East overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,IndiGo,IN****,Middle East,South Asia,Via Iran/Iraq corridor,Southern Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Emirates SkyCargo,EM****,North America,Middle East,Via Persian Gulf,Southern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Pakistan International Airlines,PA****,Middle East,Europe,Via Iran/Iraq corridor,Northern Route,3001-6000,3001-6000,0-1000,High,1-3 hrs
+2026-03,flydubai,FL****,Middle East,North America,Direct Tehran overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,American Airlines,AM****,Europe,Middle East,Via Strait of Hormuz,Southern Route,6000+,6000+,0-1000,High,1-3 hrs
+2026-03,Emirates,EM****,Middle East,Europe,Direct Gulf route,Alternate Route,6000+,6000+,0-1000,Very High,3-6 hrs
+2026-03,United Airlines,UN****,Middle East,Europe,Via Persian Gulf,Southern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Cathay Pacific,CA****,Europe,Middle East,Direct Gulf route,Alternate Route,6000+,6000+,0-1000,High,0-1 hr
+2026-03,DHL Aviation,DH****,Middle East,South Asia,Via Iran/Iraq corridor,Northern Route,3001-6000,3001-6000,1001-3000,Very High,0-1 hr
+2026-03,Cathay Pacific,CA****,Middle East,Australia,Direct Gulf route,Alternate Route,1001-3000,3001-6000,0-1000,High,1-3 hrs
+2026-03,FedEx Express,FE****,Europe,Middle East,Direct Tehran overfly,Central Asia Route,6000+,6000+,0-1000,High,3-6 hrs
+2026-03,Thai Airways,TH****,Europe,Middle East,Direct Gulf route,Alternate Route,3001-6000,3001-6000,1001-3000,Very High,3-6 hrs
+2026-03,Gulf Air,GU****,Europe,Middle East,Direct Gulf route,Alternate Route,6000+,6000+,0-1000,High,1-3 hrs
+2026-03,Cathay Pacific,CA****,Middle East,Middle East,Via Persian Gulf,Southern Route,3001-6000,3001-6000,1001-3000,Very High,1-3 hrs
+2026-03,Pakistan International Airlines,PA****,Middle East,South Asia,Direct Tehran overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,flydubai,FL****,Middle East,South Asia,Direct Gulf route,Alternate Route,6000+,6000+,0-1000,High,3-6 hrs
+2026-03,Qatar Airways,QA****,South Asia,Middle East,Via Persian Gulf,Southern Route,3001-6000,6000+,3001-6000,Very High,3-6 hrs
+2026-03,Kuwait Airways,KU****,Europe,Middle East,Direct Gulf route,Alternate Route,3001-6000,3001-6000,0-1000,Moderate,1-3 hrs
+2026-03,Emirates,EM***,Middle East,Middle East,Direct Gulf route,Alternate Route,6000+,6000+,0-1000,High,3-6 hrs
+2026-03,Oman Air,OM****,Middle East,Europe,Via Iran/Iraq corridor,Southern Route,3001-6000,6000+,1001-3000,Very High,3-6 hrs
+2026-03,flydubai,FL***,Middle East,Middle East,Direct Gulf route,Alternate Route,3001-6000,3001-6000,0-1000,Very High,0-1 hr
+2026-03,EgyptAir,EG****,Middle East,Europe,Direct Middle East overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Gulf Air,GU****,South Asia,Middle East,Direct Middle East overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,American Airlines,AM****,Middle East,Middle East,Via Strait of Hormuz,Southern Route,6000+,6000+,0-1000,High,1-3 hrs
+2026-03,flydubai,FL****,Middle East,Europe,Via Strait of Hormuz,Southern Route,3001-6000,6000+,0-1000,High,1-3 hrs
+2026-03,Malaysia Airlines,MA****,Middle East,Middle East,Via Iran/Iraq corridor,Southern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Iran Air,IR****,Middle East,Middle East,Via Iran/Iraq corridor,Southern Route,3001-6000,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Cathay Pacific,CA****,Middle East,Middle East,Direct Gulf route,Alternate Route,3001-6000,3001-6000,0-1000,High,1-3 hrs
+2026-03,Lufthansa,LU****,Middle East,Europe,Via Iran/Iraq corridor,Southern Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Ethiopian Airlines,ET***,South Asia,Middle East,Via Strait of Hormuz,Southern Route,3001-6000,3001-6000,0-1000,High,1-3 hrs
+2026-03,Air Arabia,AI****,Europe,Middle East,Via Persian Gulf,Southern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Delta Air Lines,DE***,Middle East,Middle East,Via Iran/Iraq corridor,Northern Route,6000+,6000+,0-1000,High,0-1 hr
+2026-03,Kuwait Airways,KU****,Middle East,Europe,Direct Middle East overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,EgyptAir,EG****,Europe,Middle East,Via Persian Gulf,Southern Route,3001-6000,6000+,1001-3000,Very High,0-1 hr
+2026-03,Cargolux,CA****,South Asia,Middle East,Via Iran/Iraq corridor,Southern Route,3001-6000,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Malaysia Airlines,MA****,North America,Middle East,Via Baghdad FIR,Northern Route,3001-6000,3001-6000,1001-3000,Very High,1-3 hrs
+2026-03,Cargolux,CA****,Middle East,Middle East,Via Iran/Iraq corridor,Northern Route,3001-6000,3001-6000,1001-3000,High,1-3 hrs
+2026-03,British Airways,BR****,Middle East,Europe,Via Iran/Iraq corridor,Northern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Etihad Airways,ET***,Middle East,Europe,Via Iran/Iraq corridor,Northern Route,3001-6000,3001-6000,1001-3000,Very High,1-3 hrs
+2026-03,Oman Air,OM****,Middle East,Europe,Via Baghdad FIR,Northern Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Jazeera Airways,JA****,Europe,Middle East,Via Iran/Iraq corridor,Northern Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Malaysia Airlines,MA****,Middle East,North America,Direct Gulf route,Alternate Route,3001-6000,3001-6000,0-1000,High,3-6 hrs
+2026-03,Turkish Airlines,TU***,Australia,Middle East,Via Iran/Iraq corridor,Northern Route,3001-6000,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Cargolux,CA****,South Asia,Middle East,Via Iran/Iraq corridor,Southern Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Qatar Airways,QA****,Europe,Middle East,Via Persian Gulf,Southern Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,United Airlines,UN****,Middle East,Europe,Direct Tehran overfly,Central Asia Route,3001-6000,3001-6000,0-1000,High,1-3 hrs
+2026-03,EgyptAir,EG****,Middle East,Europe,Via Baghdad FIR,Northern Route,6000+,6000+,0-1000,High,1-3 hrs
+2026-03,Qatar Airways,QA****,North America,Middle East,Via Iran/Iraq corridor,Southern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Saudi Arabian Airlines,SA***,Middle East,South Asia,Via Baghdad FIR,Northern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Cathay Pacific,CA****,Middle East,North America,Direct Tehran overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Gulf Air,GU****,Europe,Middle East,Direct Tehran overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,American Airlines,AM****,Middle East,South Asia,Via Baghdad FIR,Northern Route,6000+,6000+,0-1000,High,0-1 hr
+2026-03,Turkish Airlines,TU****,Middle East,Europe,Via Strait of Hormuz,Southern Route,6000+,6000+,0-1000,High,1-3 hrs
+2026-03,Emirates,EM****,North America,Middle East,Via Strait of Hormuz,Southern Route,3001-6000,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Oman Air,OM****,Europe,Middle East,Direct Tehran overfly,Central Asia Route,3001-6000,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Thai Airways,TH****,Middle East,South Asia,Via Iran/Iraq corridor,Northern Route,3001-6000,3001-6000,1001-3000,Very High,3-6 hrs
+2026-03,Thai Airways,TH****,South Asia,Middle East,Via Strait of Hormuz,Southern Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Kuwait Airways,KU****,South Asia,Middle East,Via Strait of Hormuz,Southern Route,6000+,6000+,1001-3000,Very High,0-1 hr
+2026-03,Jazeera Airways,JA***,South Asia,Middle East,Direct Middle East overfly,Central Asia Route,3001-6000,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Etihad Airways,ET****,Europe,Middle East,Via Strait of Hormuz,Southern Route,3001-6000,3001-6000,1001-3000,High,3-6 hrs
+2026-03,American Airlines,AM****,Middle East,Middle East,Via Strait of Hormuz,Southern Route,6000+,6000+,0-1000,Very High,3-6 hrs
+2026-03,Jazeera Airways,JA****,Middle East,Europe,Via Iran/Iraq corridor,Northern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Air India,AI****,Middle East,Middle East,Via Iran/Iraq corridor,Southern Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Jazeera Airways,JA****,Europe,Middle East,Direct Tehran overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Kuwait Airways,KU****,Middle East,South Asia,Via Iran/Iraq corridor,Northern Route,1001-3000,3001-6000,0-1000,High,1-3 hrs
+2026-03,Malaysia Airlines,MA****,Europe,Middle East,Direct Middle East overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Delta Air Lines,DE****,Middle East,South Asia,Via Baghdad FIR,Northern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,flydubai,FL****,Europe,Middle East,Direct Middle East overfly,Central Asia Route,6000+,6000+,1001-3000,High,1-3 hrs
+2026-03,DHL Aviation,DH****,South Asia,Middle East,Via Persian Gulf,Southern Route,3001-6000,6000+,1001-3000,Very High,3-6 hrs
+2026-03,EgyptAir,EG****,Middle East,Middle East,Via Iran/Iraq corridor,Northern Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Cargolux,CA****,South Asia,Middle East,Direct Tehran overfly,Central Asia Route,1001-3000,3001-6000,1001-3000,Very High,3-6 hrs
+2026-03,Jazeera Airways,JA****,Europe,Middle East,Direct Gulf route,Alternate Route,6000+,6000+,0-1000,High,1-3 hrs
+2026-03,American Airlines,AM****,Middle East,South Asia,Via Persian Gulf,Southern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Singapore Airlines,SI****,North America,Middle East,Via Persian Gulf,Southern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,DHL Aviation,DH****,Middle East,Europe,Via Iran/Iraq corridor,Southern Route,1001-3000,3001-6000,1001-3000,Very High,3-6 hrs
+2026-03,Etihad Airways,ET****,Europe,Middle East,Via Persian Gulf,Southern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,American Airlines,AM****,Middle East,Europe,Via Persian Gulf,Southern Route,3001-6000,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Gulf Air,GU****,Middle East,Middle East,Via Iran/Iraq corridor,Southern Route,3001-6000,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Qatar Airways,QA****,Australia,Middle East,Via Persian Gulf,Southern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Ethiopian Airlines,ET****,Middle East,Europe,Via Strait of Hormuz,Southern Route,1001-3000,3001-6000,1001-3000,Very High,0-1 hr
+2026-03,Kuwait Airways,KU****,South Asia,Middle East,Direct Gulf route,Alternate Route,6000+,6000+,0-1000,High,0-1 hr
+2026-03,Singapore Airlines,SI****,Middle East,Middle East,Via Persian Gulf,Southern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,EgyptAir,EG****,Middle East,Middle East,Via Baghdad FIR,Northern Route,3001-6000,6000+,1001-3000,High,0-1 hr
+2026-03,Iran Air,IR****,Europe,Middle East,Via Baghdad FIR,Northern Route,6000+,6000+,0-1000,High,3-6 hrs
+2026-03,Turkish Airlines,TU****,Middle East,Europe,Direct Tehran overfly,Central Asia Route,6000+,6000+,0-1000,High,1-3 hrs
+2026-03,EgyptAir,EG****,Middle East,South Asia,Via Persian Gulf,Southern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Emirates SkyCargo,EM****,Middle East,Europe,Direct Tehran overfly,Central Asia Route,3001-6000,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Etihad Airways,ET****,East Asia,Middle East,Via Strait of Hormuz,Southern Route,3001-6000,6000+,0-1000,Very High,1-3 hrs
+2026-03,United Airlines,UN****,Middle East,Middle East,Direct Tehran overfly,Central Asia Route,6000+,6000+,0-1000,High,1-3 hrs
+2026-03,Emirates SkyCargo,EM****,North America,Middle East,Via Iran/Iraq corridor,Northern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Air India,AI****,Middle East,Europe,Via Iran/Iraq corridor,Northern Route,1001-3000,3001-6000,1001-3000,Very High,3-6 hrs
+2026-03,Emirates,EM***,Middle East,Europe,Via Strait of Hormuz,Southern Route,6000+,6000+,0-1000,High,3-6 hrs
+2026-03,Saudi Arabian Airlines,SA****,Middle East,North America,Direct Middle East overfly,Central Asia Route,6000+,6000+,0-1000,Very High,3-6 hrs
+2026-03,Pakistan International Airlines,PA****,South Asia,Middle East,Via Baghdad FIR,Northern Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,flydubai,FL****,Middle East,Europe,Direct Gulf route,Alternate Route,6000+,6000+,0-1000,High,3-6 hrs
+2026-03,Qatar Airways,QA****,Europe,Middle East,Direct Middle East overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,0-1 hr
+2026-03,Thai Airways,TH****,Middle East,Europe,Direct Tehran overfly,Central Asia Route,3001-6000,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Emirates SkyCargo,EM****,Middle East,Europe,Via Persian Gulf,Southern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Ethiopian Airlines,ET****,Middle East,Europe,Via Iran/Iraq corridor,Southern Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Emirates,EM****,Middle East,Europe,Via Persian Gulf,Southern Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Oman Air,OM****,Middle East,South Asia,Via Strait of Hormuz,Southern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Cargolux,CA****,Middle East,Middle East,Via Baghdad FIR,Northern Route,6000+,6000+,1001-3000,High,1-3 hrs
+2026-03,EgyptAir,EG****,Middle East,Middle East,Via Iran/Iraq corridor,Northern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,EgyptAir,EG****,Europe,Middle East,Direct Middle East overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,IndiGo,IN****,Middle East,Middle East,Via Strait of Hormuz,Southern Route,6000+,6000+,0-1000,High,1-3 hrs
+2026-03,Cathay Pacific,CA****,Middle East,Europe,Direct Tehran overfly,Central Asia Route,3001-6000,3001-6000,1001-3000,Very High,1-3 hrs
+2026-03,Cargolux,CA****,Middle East,Europe,Direct Middle East overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Thai Airways,TH****,Europe,Middle East,Via Persian Gulf,Southern Route,1001-3000,6000+,3001-6000,Very High,1-3 hrs
+2026-03,Cathay Pacific,CA****,Middle East,Europe,Direct Tehran overfly,Central Asia Route,6000+,6000+,0-1000,High,3-6 hrs
+2026-03,Ethiopian Airlines,ET****,Middle East,Middle East,Direct Tehran overfly,Central Asia Route,3001-6000,6000+,1001-3000,Very High,3-6 hrs
+2026-03,FedEx Express,FE****,Middle East,Europe,Direct Tehran overfly,Central Asia Route,3001-6000,3001-6000,1001-3000,Very High,1-3 hrs
+2026-03,Air India,AI****,North America,Middle East,Direct Gulf route,Alternate Route,6000+,6000+,0-1000,High,1-3 hrs
+2026-03,flydubai,FL****,South Asia,Middle East,Via Persian Gulf,Southern Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Lufthansa,LU****,Middle East,Europe,Via Strait of Hormuz,Southern Route,6000+,6000+,0-1000,High,0-1 hr
+2026-03,Iran Air,IR****,Middle East,Europe,Direct Tehran overfly,Central Asia Route,6000+,6000+,0-1000,Very High,3-6 hrs
+2026-03,Lufthansa,LU***,South Asia,Middle East,Direct Tehran overfly,Central Asia Route,3001-6000,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Air Arabia,AI****,Middle East,East Asia,Via Iran/Iraq corridor,Northern Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Kuwait Airways,KU****,Middle East,Europe,Via Baghdad FIR,Northern Route,6000+,6000+,1001-3000,Very High,0-1 hr
+2026-03,Delta Air Lines,DE****,Middle East,Europe,Direct Tehran overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Jazeera Airways,JA***,Middle East,South Asia,Direct Gulf route,Alternate Route,6000+,6000+,0-1000,Moderate,3-6 hrs
+2026-03,Thai Airways,TH****,Middle East,Europe,Via Iran/Iraq corridor,Northern Route,6000+,6000+,1001-3000,High,1-3 hrs
+2026-03,Jazeera Airways,JA****,Europe,Middle East,Via Iran/Iraq corridor,Southern Route,3001-6000,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Delta Air Lines,DE****,Europe,Middle East,Via Iran/Iraq corridor,Southern Route,3001-6000,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Malaysia Airlines,MA****,Europe,Middle East,Via Persian Gulf,Southern Route,3001-6000,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Cathay Pacific,CA****,Middle East,South Asia,Via Iran/Iraq corridor,Northern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,British Airways,BR****,Middle East,Middle East,Via Iran/Iraq corridor,Northern Route,3001-6000,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Emirates,EM****,Middle East,Middle East,Direct Gulf route,Alternate Route,6000+,6000+,0-1000,High,1-3 hrs
+2026-03,Kuwait Airways,KU****,North America,Middle East,Direct Tehran overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,0-1 hr
+2026-03,Cargolux,CA****,Australia,Middle East,Direct Gulf route,Alternate Route,3001-6000,3001-6000,0-1000,High,3-6 hrs
+2026-03,Thai Airways,TH****,Middle East,South Asia,Via Iran/Iraq corridor,Northern Route,3001-6000,6000+,1001-3000,Very High,1-3 hrs
+2026-03,United Airlines,UN****,Middle East,Middle East,Via Iran/Iraq corridor,Southern Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Singapore Airlines,SI****,South Asia,Middle East,Via Strait of Hormuz,Southern Route,3001-6000,6000+,1001-3000,Very High,0-1 hr
+2026-03,Lufthansa,LU****,Europe,Middle East,Direct Tehran overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Kuwait Airways,KU****,Europe,Middle East,Direct Tehran overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,British Airways,BR****,Middle East,Middle East,Via Persian Gulf,Southern Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Cargolux,CA****,Middle East,Australia,Via Persian Gulf,Southern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Ethiopian Airlines,ET****,Europe,Middle East,Via Baghdad FIR,Northern Route,1001-3000,3001-6000,1001-3000,High,1-3 hrs
+2026-03,flydubai,FL****,South Asia,Middle East,Direct Gulf route,Alternate Route,3001-6000,3001-6000,0-1000,High,1-3 hrs
+2026-03,flydubai,FL****,Middle East,Europe,Direct Gulf route,Alternate Route,6000+,6000+,0-1000,Very High,1-3 hrs
+2026-03,Delta Air Lines,DE****,Europe,Middle East,Direct Gulf route,Alternate Route,3001-6000,3001-6000,0-1000,High,1-3 hrs
+2026-03,Qatar Airways,QA****,Europe,Middle East,Direct Tehran overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Air France,AI****,North America,Middle East,Via Persian Gulf,Southern Route,3001-6000,3001-6000,1001-3000,Very High,1-3 hrs
+2026-03,Ethiopian Airlines,ET****,East Asia,Middle East,Via Iran/Iraq corridor,Southern Route,1001-3000,3001-6000,1001-3000,Very High,3-6 hrs
+2026-03,Ethiopian Airlines,ET****,Middle East,South Asia,Direct Tehran overfly,Central Asia Route,6000+,6000+,0-1000,Very High,1-3 hrs
+2026-03,Turkish Airlines,TU****,Middle East,North America,Direct Tehran overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Oman Air,OM****,Europe,Middle East,Direct Gulf route,Alternate Route,6000+,6000+,0-1000,High,3-6 hrs
+2026-03,British Airways,BR****,Europe,Middle East,Direct Gulf route,Alternate Route,3001-6000,3001-6000,0-1000,High,1-3 hrs
+2026-03,Iran Air,IR****,Middle East,Middle East,Via Baghdad FIR,Northern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Air India,AI***,Middle East,North America,Via Persian Gulf,Southern Route,6000+,6000+,3001-6000,Very High,1-3 hrs
+2026-03,Pakistan International Airlines,PA****,Middle East,Middle East,Direct Middle East overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,DHL Aviation,DH***,North America,Middle East,Direct Middle East overfly,Central Asia Route,1001-3000,3001-6000,1001-3000,Very High,1-3 hrs
+2026-03,Turkish Airlines,TU****,Middle East,South Asia,Direct Middle East overfly,Central Asia Route,3001-6000,6000+,1001-3000,Very High,3-6 hrs
+2026-03,IndiGo,IN****,Europe,Middle East,Via Persian Gulf,Southern Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Iran Air,IR****,Middle East,Middle East,Via Iran/Iraq corridor,Northern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,United Airlines,UN****,Middle East,Europe,Via Persian Gulf,Southern Route,1001-3000,3001-6000,1001-3000,Very High,1-3 hrs
+2026-03,Qatar Airways,QA****,Middle East,Middle East,Via Strait of Hormuz,Southern Route,1001-3000,3001-6000,1001-3000,High,3-6 hrs
+2026-03,Gulf Air,GU***,Middle East,Australia,Via Persian Gulf,Southern Route,6000+,6000+,3001-6000,Very High,3-6 hrs
+2026-03,Kuwait Airways,KU****,North America,Middle East,Via Iran/Iraq corridor,Southern Route,1001-3000,3001-6000,1001-3000,Very High,3-6 hrs
+2026-03,Cathay Pacific,CA****,Europe,East Asia,Direct Middle East overfly,Central Asia Route,1001-3000,3001-6000,1001-3000,Very High,1-3 hrs
+2026-03,KLM,KL****,Middle East,South Asia,Via Iran/Iraq corridor,Northern Route,3001-6000,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Etihad Airways,ET****,Middle East,Middle East,Via Baghdad FIR,Northern Route,3001-6000,3001-6000,0-1000,High,0-1 hr
+2026-03,Etihad Airways,ET****,Middle East,South Asia,Direct Middle East overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,FedEx Express,FE****,East Asia,Europe,Via Strait of Hormuz,Southern Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Jazeera Airways,JA****,South Asia,Middle East,Via Persian Gulf,Southern Route,6000+,6000+,3001-6000,Very High,1-3 hrs
+2026-03,Qatar Airways,QA****,South Asia,Middle East,Via Baghdad FIR,Northern Route,6000+,6000+,0-1000,High,1-3 hrs
+2026-03,Turkish Airlines,TU****,Middle East,South Asia,Via Iran/Iraq corridor,Southern Route,3001-6000,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Gulf Air,GU****,South Asia,Middle East,Via Persian Gulf,Southern Route,3001-6000,6000+,3001-6000,Very High,1-3 hrs
+2026-03,British Airways,BR****,Middle East,South Asia,Via Iran/Iraq corridor,Northern Route,3001-6000,3001-6000,1001-3000,Very High,1-3 hrs
+2026-03,Qatar Airways,QA****,Middle East,North America,Via Iran/Iraq corridor,Southern Route,3001-6000,3001-6000,1001-3000,Very High,1-3 hrs
+2026-03,IndiGo,IN***,Middle East,Europe,Via Iran/Iraq corridor,Northern Route,3001-6000,3001-6000,1001-3000,Very High,1-3 hrs
+2026-03,Thai Airways,TH****,Middle East,Europe,Via Strait of Hormuz,Southern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Air Arabia,AI****,Middle East,South Asia,Direct Middle East overfly,Central Asia Route,3001-6000,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Air India,AI****,Middle East,Middle East,Direct Tehran overfly,Central Asia Route,6000+,6000+,0-1000,High,1-3 hrs
+2026-03,Mahan Air,MA****,Middle East,Europe,Via Strait of Hormuz,Southern Route,3001-6000,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Delta Air Lines,DE****,Europe,Middle East,Via Strait of Hormuz,Southern Route,6000+,6000+,1001-3000,High,3-6 hrs
+2026-03,Iran Air,IR***,Middle East,Europe,Direct Tehran overfly,Central Asia Route,1001-3000,1001-3000,0-1000,Very High,0-1 hr
+2026-03,Oman Air,OM****,Europe,Middle East,Via Strait of Hormuz,Southern Route,3001-6000,3001-6000,0-1000,Very High,1-3 hrs
+2026-03,American Airlines,AM****,Europe,Middle East,Via Strait of Hormuz,Southern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Pakistan International Airlines,PA****,East Asia,Middle East,Via Iran/Iraq corridor,Northern Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Delta Air Lines,DE****,South Asia,Middle East,Via Iran/Iraq corridor,Northern Route,6000+,6000+,0-1000,High,0-1 hr
+2026-03,Etihad Airways,ET***,Europe,East Asia,Via Strait of Hormuz,Southern Route,1001-3000,3001-6000,1001-3000,Very High,0-1 hr
+2026-03,Delta Air Lines,DE****,Europe,Middle East,Via Iran/Iraq corridor,Southern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,DHL Aviation,DH****,Middle East,Europe,Via Persian Gulf,Southern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Etihad Airways,ET****,Middle East,East Asia,Via Iran/Iraq corridor,Southern Route,3001-6000,3001-6000,1001-3000,Very High,1-3 hrs
+2026-03,Air India,AI****,South Asia,Middle East,Via Iran/Iraq corridor,Northern Route,3001-6000,3001-6000,1001-3000,Very High,0-1 hr
+2026-03,American Airlines,AM****,Europe,Middle East,Via Strait of Hormuz,Southern Route,1001-3000,3001-6000,1001-3000,Very High,3-6 hrs
+2026-03,Lufthansa,LU****,Middle East,Europe,Via Iran/Iraq corridor,Southern Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,KLM,KL****,Australia,Middle East,Via Baghdad FIR,Northern Route,3001-6000,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Air India,AI***,North America,Middle East,Direct Gulf route,Alternate Route,3001-6000,3001-6000,0-1000,High,3-6 hrs
+2026-03,Emirates SkyCargo,EM****,Middle East,South Asia,Direct Gulf route,Alternate Route,6000+,6000+,0-1000,Moderate,3-6 hrs
+2026-03,Emirates,EM****,South Asia,Middle East,Via Persian Gulf,Southern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,KLM,KL****,Europe,Middle East,Via Strait of Hormuz,Southern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,United Airlines,UN****,Europe,Middle East,Via Baghdad FIR,Northern Route,6000+,6000+,0-1000,High,3-6 hrs
+2026-03,Kuwait Airways,KU****,Europe,East Asia,Via Iran/Iraq corridor,Northern Route,6000+,6000+,1001-3000,Very High,1-3 hrs
+2026-03,Iran Air,IR***,Middle East,North America,Via Persian Gulf,Southern Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Malaysia Airlines,MA****,Middle East,Middle East,Via Strait of Hormuz,Southern Route,6000+,6000+,1001-3000,Very High,3-6 hrs
+2026-03,Pakistan International Airlines,PA****,Middle East,Middle East,Direct Gulf route,Alternate Route,3001-6000,3001-6000,0-1000,High,1-3 hrs
+2026-03,Cathay Pacific,CA***,Australia,Middle East,Direct Middle East overfly,Central Asia Route,6000+,6000+,1001-3000,Very High,0-1 hr
+2026-03,Emirates,EM****,Middle East,Middle East,Via Iran/Iraq corridor,Northern Route,6000+,6000+,1001-3000,Very High,1-3 hrs

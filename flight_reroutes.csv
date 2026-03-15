@@ -1,0 +1,322 @@
+date,airline,flight_number,origin,destination,original_route,new_route,original_distance_km,new_distance_km,additional_distance_km,extra_fuel_cost_usd,delay_hours
+2026-02-28,Gulf Air,GU1160,Istanbul,Delhi,Via Strait of Hormuz,Via Red Sea–Suez route,7437,8602,1165,4081.06,3.3
+2026-02-28,Iran Air,IR9334,Los Angeles,Doha,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,4239,5887,1648,6633.95,4.5
+2026-02-28,Malaysia Airlines,MA6046,Amman,Dubai,Direct Tehran overfly,Via Ashgabat–Almaty route,3991,4892,901,5653.79,4.3
+2026-02-28,Gulf Air,GU2830,Islamabad,Riyadh,Via Persian Gulf,Via Indian Ocean southern route,10505,11957,1452,7127.27,3.9
+2026-02-28,Emirates SkyCargo,EM2101,Doha,London,Direct Tehran overfly,Via Ashgabat–Almaty route,8421,9637,1216,6972.49,2.6
+2026-02-28,FedEx Express,FE542,Dubai,Frankfurt,Direct Gulf route,Via Jordan–Egypt alternate,2727,3720,993,4915.92,2.9
+2026-02-28,Gulf Air,GU5444,Dubai,New York,Direct Tehran overfly,Via Ashgabat–Almaty route,5752,6651,899,6255.22,4.1
+2026-02-28,DHL Aviation,DH3889,Doha,Los Angeles,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,8508,9502,994,5002.9,2.4
+2026-02-28,Mahan Air,MA4049,Tehran,Istanbul,Direct Middle East overfly,Via Central Asian detour,4402,6153,1751,9609.6,1.5
+2026-02-28,Turkish Airlines,TU6903,New York,Doha,Direct Gulf route,Via Jordan–Egypt alternate,6347,7040,693,4580.02,3.9
+2026-02-28,Air India,AI9296,London,Doha,Direct Middle East overfly,Via Central Asian detour,2377,4452,2075,10389.57,3.8
+2026-02-28,Lufthansa,LU5500,Karachi,Dubai,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,7032,8245,1213,5740.66,2.2
+2026-02-28,Ethiopian Airlines,ET1878,Beijing,Tehran,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,3487,5382,1895,13024.24,3.2
+2026-02-28,Singapore Airlines,SI2436,Moscow,Tehran,Via Persian Gulf,Via Indian Ocean southern route,2257,5509,3252,15582.07,3.2
+2026-02-28,Saudi Arabian Airlines,SA5972,Dubai,Cairo,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,6431,7636,1205,5113.08,2.6
+2026-02-28,American Airlines,AM3218,Moscow,Tehran,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,7578,9347,1769,11370.71,2.3
+2026-02-28,Pakistan International Airlines,PA4924,Doha,Mumbai,Direct Middle East overfly,Via Central Asian detour,11821,14100,2279,12809.85,4.8
+2026-02-28,Gulf Air,GU8832,Paris,Beirut,Direct Gulf route,Via Jordan–Egypt alternate,4351,5162,811,3843.39,1.4
+2026-02-28,Mahan Air,MA6054,Doha,Lahore,Via Persian Gulf,Via Indian Ocean southern route,11908,14744,2836,15494.95,3.0
+2026-02-28,Singapore Airlines,SI2093,London,Doha,Direct Gulf route,Via Jordan–Egypt alternate,6818,7798,980,5424.63,0.8
+2026-02-28,Thai Airways,TH2126,Dubai,New York,Direct Tehran overfly,Via Ashgabat–Almaty route,3580,5177,1597,5713.26,3.6
+2026-02-28,Iran Air,IR1626,Dubai,Mumbai,Direct Tehran overfly,Via Ashgabat–Almaty route,5881,6760,879,4981.78,1.5
+2026-02-28,American Airlines,AM3089,Dubai,London,Via Baghdad FIR,Via Ankara–Baku corridor,3229,4077,848,3998.99,4.9
+2026-02-28,Singapore Airlines,SI2866,Riyadh,Cairo,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,6351,8687,2336,9357.88,2.0
+2026-02-28,Emirates,EM3648,Riyadh,Islamabad,Via Persian Gulf,Via Indian Ocean southern route,3773,5115,1342,6931.93,2.2
+2026-02-28,Emirates SkyCargo,EM4722,Moscow,Tehran,Direct Tehran overfly,Via Ashgabat–Almaty route,4857,6405,1548,7134.67,2.1
+2026-03-01,Pakistan International Airlines,PA5745,Dubai,New York,Direct Tehran overfly,Via Ashgabat–Almaty route,2654,4571,1917,9920.6,3.5
+2026-03-01,Saudi Arabian Airlines,SA1077,London,Abu Dhabi,Via Strait of Hormuz,Via Red Sea–Suez route,9848,10697,849,5919.92,4.3
+2026-03-01,Qatar Airways,QA4657,Islamabad,Riyadh,Direct Tehran overfly,Via Ashgabat–Almaty route,11865,13544,1679,9059.45,1.6
+2026-03-01,Cargolux,CA6451,Cairo,Kuwait City,Direct Tehran overfly,Via Ashgabat–Almaty route,2312,3312,1000,4358.74,3.4
+2026-03-01,American Airlines,AM2326,Paris,Doha,Direct Tehran overfly,Via Ashgabat–Almaty route,7952,9236,1284,4736.4,4.2
+2026-03-01,Oman Air,OM8586,Istanbul,Tehran,Direct Tehran overfly,Via Ashgabat–Almaty route,3158,4613,1455,5322.14,2.8
+2026-03-01,Gulf Air,GU1138,Dubai,London,Via Strait of Hormuz,Via Red Sea–Suez route,11632,12232,600,3347.23,4.0
+2026-03-01,British Airways,BR9360,Beijing,Tehran,Direct Gulf route,Via Jordan–Egypt alternate,5767,6649,882,6101.64,1.7
+2026-03-01,Singapore Airlines,SI4009,Paris,Beirut,Via Strait of Hormuz,Via Red Sea–Suez route,9309,10754,1445,7662.14,2.9
+2026-03-01,Air Arabia,AI117,London,Abu Dhabi,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,3398,5158,1760,7304.39,2.1
+2026-03-01,Turkish Airlines,TU1678,Beirut,Paris,Via Baghdad FIR,Via Ankara–Baku corridor,11839,12930,1091,5125.34,2.9
+2026-03-01,Emirates SkyCargo,EM7247,London,Muscat,Via Strait of Hormuz,Via Red Sea–Suez route,3840,5179,1339,6782.83,2.1
+2026-03-01,Malaysia Airlines,MA8638,Riyadh,Islamabad,Via Baghdad FIR,Via Ankara–Baku corridor,10051,11229,1178,4565.89,1.8
+2026-03-01,Thai Airways,TH6909,Amman,Dubai,Direct Gulf route,Via Jordan–Egypt alternate,5354,6451,1097,4293.2,3.0
+2026-03-01,Cargolux,CA4309,London,Abu Dhabi,Direct Gulf route,Via Jordan–Egypt alternate,2631,3375,744,3247.36,2.0
+2026-03-01,Pakistan International Airlines,PA627,Dubai,Mumbai,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,5523,6608,1085,5280.56,1.0
+2026-03-01,Air India,AI394,Paris,Dubai,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,7994,9286,1292,5903.44,1.9
+2026-03-01,DHL Aviation,DH2848,Moscow,Tehran,Via Baghdad FIR,Via Ankara–Baku corridor,11653,12230,577,3169.46,4.3
+2026-03-01,DHL Aviation,DH3026,Dubai,Cairo,Direct Middle East overfly,Via Central Asian detour,5756,6749,993,4308.54,1.3
+2026-03-01,IndiGo,IN1283,Paris,Doha,Via Strait of Hormuz,Via Red Sea–Suez route,2232,3051,819,3931.68,2.2
+2026-03-01,Etihad Airways,ET5201,Doha,Los Angeles,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,9230,11244,2014,9958.86,0.6
+2026-03-02,flydubai,FL6513,Mumbai,Dubai,Direct Middle East overfly,Via Central Asian detour,2894,4466,1572,7421.9,1.7
+2026-03-02,Air Arabia,AI6473,Islamabad,Riyadh,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,10764,12374,1610,10342.62,2.1
+2026-03-02,Singapore Airlines,SI3194,Abu Dhabi,Sydney,Direct Middle East overfly,Via Central Asian detour,11885,13299,1414,5976.55,3.3
+2026-03-02,Thai Airways,TH7106,Istanbul,Delhi,Via Strait of Hormuz,Via Red Sea–Suez route,5183,6426,1243,6303.71,3.3
+2026-03-02,Cargolux,CA7360,Sydney,Dubai,Direct Gulf route,Via Jordan–Egypt alternate,11510,12538,1028,3844.36,3.0
+2026-03-02,Air Arabia,AI6851,Dubai,Frankfurt,Via Strait of Hormuz,Via Red Sea–Suez route,3524,4414,890,3319.93,1.0
+2026-03-02,Cargolux,CA7121,Istanbul,Karachi,Direct Middle East overfly,Via Central Asian detour,8965,10213,1248,5639.21,1.0
+2026-03-02,Qatar Airways,QA9427,Tehran,Istanbul,Direct Tehran overfly,Via Ashgabat–Almaty route,2925,4309,1384,8972.97,3.2
+2026-03-02,EgyptAir,EG7394,Lahore,Doha,Direct Middle East overfly,Via Central Asian detour,4050,5941,1891,8660.0,3.5
+2026-03-02,Iran Air,IR4810,London,Dubai,Direct Gulf route,Via Jordan–Egypt alternate,6821,7541,720,4316.71,3.7
+2026-03-02,Delta Air Lines,DE881,Dubai,Karachi,Via Strait of Hormuz,Via Red Sea–Suez route,4214,5578,1364,9023.81,1.5
+2026-03-02,Jazeera Airways,JA3885,Paris,Doha,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,9925,12620,2695,11090.29,1.9
+2026-03-02,Air France,AI3899,Lahore,Doha,Direct Gulf route,Via Jordan–Egypt alternate,4683,5686,1003,3723.95,3.0
+2026-03-02,Air France,AI2712,Doha,New York,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,6081,7160,1079,5655.66,2.9
+2026-03-02,Lufthansa,LU1745,London,Abu Dhabi,Direct Middle East overfly,Via Central Asian detour,2878,4664,1786,8017.07,1.5
+2026-03-02,Kuwait Airways,KU7489,Islamabad,Riyadh,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,3129,4537,1408,5673.57,1.2
+2026-03-02,British Airways,BR7995,Kuwait City,Cairo,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,7868,9744,1876,10121.21,4.9
+2026-03-02,Singapore Airlines,SI2475,Bahrain,London,Via Baghdad FIR,Via Ankara–Baku corridor,6986,8397,1411,5780.8,1.0
+2026-03-02,Turkish Airlines,TU8928,Dubai,Bahrain,Direct Middle East overfly,Via Central Asian detour,8859,10204,1345,8794.24,3.2
+2026-03-02,Mahan Air,MA6362,Abu Dhabi,London,Direct Middle East overfly,Via Central Asian detour,6378,8397,2019,10176.36,4.7
+2026-03-02,British Airways,BR8703,Islamabad,Riyadh,Direct Middle East overfly,Via Central Asian detour,10930,12348,1418,9009.11,2.0
+2026-03-02,Oman Air,OM6370,Paris,Beirut,Via Strait of Hormuz,Via Red Sea–Suez route,11141,12794,1653,8320.08,1.5
+2026-03-02,Cargolux,CA2262,Dubai,Frankfurt,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,3325,5745,2420,16395.37,1.1
+2026-03-02,Qatar Airways,QA2254,Cairo,Riyadh,Via Persian Gulf,Via Indian Ocean southern route,2777,6097,3320,21557.76,4.6
+2026-03-02,Lufthansa,LU4165,Istanbul,Tehran,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,5048,7450,2402,12212.27,1.2
+2026-03-02,American Airlines,AM8643,Amman,Dubai,Via Baghdad FIR,Via Ankara–Baku corridor,5532,6052,520,2291.72,1.3
+2026-03-03,Pakistan International Airlines,PA776,Moscow,Tehran,Via Persian Gulf,Via Indian Ocean southern route,8899,10984,2085,9042.73,2.1
+2026-03-03,FedEx Express,FE1857,Mumbai,Dubai,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,4793,6516,1723,10453.87,1.6
+2026-03-03,KLM,KL3077,Lahore,Doha,Via Strait of Hormuz,Via Red Sea–Suez route,6981,8560,1579,9709.5,4.2
+2026-03-03,Emirates SkyCargo,EM460,Abu Dhabi,Washington,Direct Middle East overfly,Via Central Asian detour,2803,3747,944,5451.59,1.8
+2026-03-03,Air France,AI1862,Sydney,Abu Dhabi,Direct Gulf route,Via Jordan–Egypt alternate,11703,12405,702,3501.22,2.0
+2026-03-03,Kuwait Airways,KU7073,Dubai,Cairo,Direct Gulf route,Via Jordan–Egypt alternate,6315,7392,1077,5932.21,2.2
+2026-03-03,Singapore Airlines,SI2158,Abu Dhabi,London,Via Baghdad FIR,Via Ankara–Baku corridor,3736,4868,1132,7649.11,1.4
+2026-03-03,United Airlines,UN1887,Doha,Paris,Direct Middle East overfly,Via Central Asian detour,10185,12536,2351,15311.6,3.7
+2026-03-03,Etihad Airways,ET5496,Moscow,Tehran,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,4696,6789,2093,9507.83,4.2
+2026-03-03,Kuwait Airways,KU3968,Cairo,Dubai,Direct Tehran overfly,Via Ashgabat–Almaty route,7849,9304,1455,7243.42,3.9
+2026-03-03,Jazeera Airways,JA3878,Dubai,Mumbai,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,11679,14443,2764,18945.98,2.5
+2026-03-03,FedEx Express,FE892,Dubai,Karachi,Via Persian Gulf,Via Indian Ocean southern route,11368,13336,1968,7571.73,3.1
+2026-03-03,Malaysia Airlines,MA3645,Kuwait City,Mumbai,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,4662,5741,1079,3777.98,2.7
+2026-03-03,American Airlines,AM4876,Bahrain,Dubai,Via Baghdad FIR,Via Ankara–Baku corridor,2889,3782,893,5988.81,0.7
+2026-03-03,Air Arabia,AI2595,Dubai,Bahrain,Direct Tehran overfly,Via Ashgabat–Almaty route,5788,7750,1962,11662.26,1.6
+2026-03-03,EgyptAir,EG7445,Moscow,Tehran,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,10007,12054,2047,12683.17,1.7
+2026-03-03,Air India,AI3716,Riyadh,Cairo,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,7133,8612,1479,5333.07,2.6
+2026-03-03,flydubai,FL3145,London,Singapore,Via Strait of Hormuz,Via Red Sea–Suez route,4402,5061,659,3082.22,1.1
+2026-03-03,Thai Airways,TH6183,Bahrain,Dubai,Via Strait of Hormuz,Via Red Sea–Suez route,4012,5736,1724,11267.45,3.1
+2026-03-03,Emirates SkyCargo,EM8329,London,Singapore,Direct Middle East overfly,Via Central Asian detour,8568,11045,2477,10084.49,3.8
+2026-03-03,Iran Air,IR3258,Istanbul,Tehran,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,8786,11089,2303,15893.7,0.6
+2026-03-03,Lufthansa,LU542,Dubai,Amman,Direct Gulf route,Via Jordan–Egypt alternate,10390,11002,612,2519.82,3.7
+2026-03-03,Gulf Air,GU3667,Riyadh,London,Direct Middle East overfly,Via Central Asian detour,2600,4459,1859,11243.46,1.6
+2026-03-03,Etihad Airways,ET192,Delhi,Istanbul,Via Baghdad FIR,Via Ankara–Baku corridor,7097,7794,697,3640.87,4.0
+2026-03-03,Cathay Pacific,CA8513,Kuwait City,London,Via Baghdad FIR,Via Ankara–Baku corridor,5671,6893,1222,7680.16,1.6
+2026-03-03,Cathay Pacific,CA5873,Kuwait City,Cairo,Via Baghdad FIR,Via Ankara–Baku corridor,5512,6603,1091,5045.75,3.4
+2026-03-04,United Airlines,UN2164,Mumbai,Doha,Via Baghdad FIR,Via Ankara–Baku corridor,5448,6705,1257,8410.78,2.2
+2026-03-04,Qatar Airways,QA8154,Doha,Lahore,Via Persian Gulf,Via Indian Ocean southern route,7223,10123,2900,11702.81,2.0
+2026-03-04,Singapore Airlines,SI6226,Dubai,Singapore,Direct Tehran overfly,Via Ashgabat–Almaty route,6518,7943,1425,8857.06,3.3
+2026-03-04,Kuwait Airways,KU6421,Dubai,Cairo,Direct Middle East overfly,Via Central Asian detour,9468,10375,907,4401.98,1.1
+2026-03-04,IndiGo,IN1576,Cairo,Riyadh,Via Persian Gulf,Via Indian Ocean southern route,5979,8923,2944,15408.32,2.1
+2026-03-04,Singapore Airlines,SI1260,Amman,Dubai,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,5555,7264,1709,10740.44,4.0
+2026-03-04,Air Arabia,AI1626,New York,Doha,Via Baghdad FIR,Via Ankara–Baku corridor,3996,4698,702,4824.62,4.3
+2026-03-04,Emirates,EM7384,Kuwait City,Cairo,Via Baghdad FIR,Via Ankara–Baku corridor,6919,8276,1357,5636.35,1.2
+2026-03-04,Ethiopian Airlines,ET5740,Muscat,London,Direct Tehran overfly,Via Ashgabat–Almaty route,6281,7754,1473,5424.08,2.0
+2026-03-04,Oman Air,OM2531,Dubai,Istanbul,Direct Middle East overfly,Via Central Asian detour,8673,10245,1572,9689.51,1.5
+2026-03-04,American Airlines,AM2998,Dubai,Paris,Via Persian Gulf,Via Indian Ocean southern route,8324,10972,2648,13032.34,2.6
+2026-03-04,flydubai,FL7470,Cairo,Dubai,Via Strait of Hormuz,Via Red Sea–Suez route,2307,4076,1769,6571.3,0.9
+2026-03-04,Turkish Airlines,TU7263,Karachi,Dubai,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,5784,7131,1347,5769.82,5.0
+2026-03-04,Malaysia Airlines,MA8856,Cairo,Riyadh,Direct Gulf route,Via Jordan–Egypt alternate,2091,2736,645,2426.71,1.7
+2026-03-04,Kuwait Airways,KU3932,Islamabad,Dubai,Direct Tehran overfly,Via Ashgabat–Almaty route,7737,9470,1733,8407.24,0.5
+2026-03-04,Turkish Airlines,TU1931,Doha,Mumbai,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,5242,6676,1434,8027.1,3.1
+2026-03-04,Qatar Airways,QA1349,Cairo,Kuwait City,Direct Middle East overfly,Via Central Asian detour,7824,9726,1902,9359.64,2.4
+2026-03-04,Oman Air,OM2802,Dubai,Bahrain,Via Strait of Hormuz,Via Red Sea–Suez route,10628,11957,1329,5631.97,3.9
+2026-03-04,Ethiopian Airlines,ET529,Singapore,Dubai,Via Baghdad FIR,Via Ankara–Baku corridor,5183,6277,1094,5665.83,3.2
+2026-03-04,Mahan Air,MA7705,Cairo,Riyadh,Direct Gulf route,Via Jordan–Egypt alternate,2081,2875,794,3032.77,1.2
+2026-03-04,EgyptAir,EG2601,Cairo,Dubai,Direct Gulf route,Via Jordan–Egypt alternate,6057,6567,510,3537.01,2.3
+2026-03-04,FedEx Express,FE8399,Istanbul,Tehran,Direct Middle East overfly,Via Central Asian detour,7701,9835,2134,8429.12,1.8
+2026-03-04,IndiGo,IN5293,Doha,Mumbai,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,8186,10389,2203,12231.73,4.3
+2026-03-04,Emirates SkyCargo,EM3907,Washington,Abu Dhabi,Via Persian Gulf,Via Indian Ocean southern route,7584,10197,2613,11310.74,1.5
+2026-03-04,Pakistan International Airlines,PA9056,Doha,Paris,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,4771,5607,836,4457.13,1.9
+2026-03-04,flydubai,FL2121,Doha,Los Angeles,Direct Tehran overfly,Via Ashgabat–Almaty route,7792,9279,1487,8510.05,1.9
+2026-03-04,American Airlines,AM6182,Paris,Doha,Via Strait of Hormuz,Via Red Sea–Suez route,9438,10266,828,3236.79,1.5
+2026-03-04,Emirates,EM2518,Tehran,Moscow,Direct Gulf route,Via Jordan–Egypt alternate,7215,8016,801,5088.5,3.4
+2026-03-04,United Airlines,UN9816,Riyadh,London,Via Persian Gulf,Via Indian Ocean southern route,7491,9641,2150,9355.53,1.9
+2026-03-04,Cathay Pacific,CA6797,Paris,Dubai,Direct Gulf route,Via Jordan–Egypt alternate,7897,8435,538,2761.92,0.7
+2026-03-04,DHL Aviation,DH5227,Dubai,Karachi,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,3100,5003,1903,9912.22,0.6
+2026-03-05,Cathay Pacific,CA6190,Abu Dhabi,Sydney,Direct Gulf route,Via Jordan–Egypt alternate,2342,3045,703,4402.69,2.1
+2026-03-05,FedEx Express,FE6163,Frankfurt,Dubai,Direct Tehran overfly,Via Ashgabat–Almaty route,7261,8221,960,3660.88,4.4
+2026-03-05,Thai Airways,TH2721,Frankfurt,Dubai,Direct Gulf route,Via Jordan–Egypt alternate,3863,4961,1098,7319.39,3.5
+2026-03-05,Gulf Air,GU5707,London,Kuwait City,Direct Gulf route,Via Jordan–Egypt alternate,9645,10633,988,4436.23,1.7
+2026-03-05,Cathay Pacific,CA6846,Cairo,Dubai,Via Persian Gulf,Via Indian Ocean southern route,3603,5697,2094,9422.11,1.5
+2026-03-05,Pakistan International Airlines,PA5961,Istanbul,Delhi,Direct Tehran overfly,Via Ashgabat–Almaty route,7392,9174,1782,7627.98,3.5
+2026-03-05,flydubai,FL7079,Doha,Mumbai,Direct Gulf route,Via Jordan–Egypt alternate,7552,8341,789,4392.78,4.3
+2026-03-05,Qatar Airways,QA1228,Karachi,Istanbul,Via Persian Gulf,Via Indian Ocean southern route,4051,7366,3315,21948.18,3.3
+2026-03-05,Kuwait Airways,KU2169,Paris,Doha,Direct Gulf route,Via Jordan–Egypt alternate,5123,5576,453,1777.33,1.4
+2026-03-05,Emirates,EM642,Dubai,Cairo,Direct Gulf route,Via Jordan–Egypt alternate,11646,12448,802,3064.06,5.0
+2026-03-05,Oman Air,OM8426,Dubai,Paris,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,5069,6187,1118,6055.73,3.9
+2026-03-05,flydubai,FL816,Cairo,Riyadh,Direct Gulf route,Via Jordan–Egypt alternate,4233,5068,835,5062.1,0.9
+2026-03-05,EgyptAir,EG3643,Dubai,Frankfurt,Direct Middle East overfly,Via Central Asian detour,10199,11508,1309,5106.17,1.1
+2026-03-05,Gulf Air,GU1083,Mumbai,Dubai,Direct Middle East overfly,Via Central Asian detour,10205,11777,1572,10115.29,4.9
+2026-03-05,American Airlines,AM6361,Dubai,Cairo,Via Strait of Hormuz,Via Red Sea–Suez route,7613,8307,694,4202.74,1.4
+2026-03-05,flydubai,FL2565,Bahrain,London,Via Strait of Hormuz,Via Red Sea–Suez route,5671,6578,907,3579.71,1.7
+2026-03-05,Malaysia Airlines,MA7941,Dubai,Amman,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,8012,10119,2107,9269.17,1.9
+2026-03-05,Iran Air,IR6064,Dubai,Cairo,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,5216,7318,2102,10382.29,3.6
+2026-03-05,Cathay Pacific,CA6401,Cairo,Riyadh,Direct Gulf route,Via Jordan–Egypt alternate,4487,5240,753,3769.95,1.2
+2026-03-05,Lufthansa,LU8758,Kuwait City,London,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,7423,8960,1537,9587.33,4.9
+2026-03-05,Ethiopian Airlines,ET632,Karachi,Istanbul,Via Strait of Hormuz,Via Red Sea–Suez route,4976,5691,715,3616.49,1.8
+2026-03-05,Air Arabia,AI4142,London,Muscat,Via Persian Gulf,Via Indian Ocean southern route,9829,12702,2873,17393.54,1.6
+2026-03-05,Delta Air Lines,DE575,Kuwait City,Cairo,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,8231,9064,833,4478.07,0.6
+2026-03-05,Kuwait Airways,KU2356,Beirut,Paris,Direct Middle East overfly,Via Central Asian detour,9045,10429,1384,8684.3,2.4
+2026-03-06,EgyptAir,EG7509,London,Abu Dhabi,Via Persian Gulf,Via Indian Ocean southern route,5429,7593,2164,8199.23,0.8
+2026-03-06,Cargolux,CA7178,Karachi,Dubai,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,5368,7655,2287,13088.4,4.9
+2026-03-06,Malaysia Airlines,MA4941,New York,Doha,Via Baghdad FIR,Via Ankara–Baku corridor,4426,5906,1480,7246.71,1.6
+2026-03-06,Cargolux,CA2533,Dubai,Istanbul,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,3059,4102,1043,4196.58,1.3
+2026-03-06,British Airways,BR5395,Doha,Paris,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,7692,9146,1454,6744.91,1.7
+2026-03-06,Etihad Airways,ET723,Abu Dhabi,London,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,3007,4678,1671,11251.31,1.2
+2026-03-06,Oman Air,OM7370,Muscat,London,Via Baghdad FIR,Via Ankara–Baku corridor,10648,12139,1491,7392.84,4.9
+2026-03-06,Jazeera Airways,JA9809,Frankfurt,Dubai,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,10152,12155,2003,7495.54,3.1
+2026-03-06,Malaysia Airlines,MA9870,Doha,Los Angeles,Direct Gulf route,Via Jordan–Egypt alternate,3435,4259,824,4428.98,3.2
+2026-03-06,Turkish Airlines,TU160,Sydney,Abu Dhabi,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,5849,7979,2130,8281.29,4.6
+2026-03-06,Cargolux,CA8016,Mumbai,Dubai,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,7541,9619,2078,8036.97,3.4
+2026-03-06,Qatar Airways,QA3133,Paris,Doha,Via Persian Gulf,Via Indian Ocean southern route,6462,9399,2937,19206.89,3.4
+2026-03-06,United Airlines,UN6116,Beirut,Paris,Direct Tehran overfly,Via Ashgabat–Almaty route,3883,4680,797,2934.14,2.2
+2026-03-06,EgyptAir,EG1169,Dubai,London,Via Baghdad FIR,Via Ankara–Baku corridor,8427,9092,665,3726.98,2.1
+2026-03-06,Qatar Airways,QA5128,Washington,Abu Dhabi,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,7894,9685,1791,10892.74,1.1
+2026-03-06,Saudi Arabian Airlines,SA670,Dubai,Karachi,Via Baghdad FIR,Via Ankara–Baku corridor,10931,12322,1391,9700.6,1.9
+2026-03-06,Cathay Pacific,CA4497,Doha,Los Angeles,Direct Tehran overfly,Via Ashgabat–Almaty route,9932,11531,1599,8474.91,2.1
+2026-03-06,Gulf Air,GU6011,London,Doha,Direct Tehran overfly,Via Ashgabat–Almaty route,6645,8322,1677,8940.86,1.8
+2026-03-06,American Airlines,AM7136,Dubai,Mumbai,Via Baghdad FIR,Via Ankara–Baku corridor,6107,6994,887,4263.62,0.7
+2026-03-06,Turkish Airlines,TU4980,Bahrain,London,Via Strait of Hormuz,Via Red Sea–Suez route,10833,11804,971,4453.08,2.1
+2026-03-06,Emirates,EM6331,New York,Doha,Via Strait of Hormuz,Via Red Sea–Suez route,4762,6488,1726,10471.4,4.7
+2026-03-06,Oman Air,OM7326,London,Kuwait City,Direct Tehran overfly,Via Ashgabat–Almaty route,4609,6043,1434,5892.36,4.6
+2026-03-06,Thai Airways,TH8190,Dubai,Karachi,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,3781,5420,1639,8347.51,3.4
+2026-03-06,Thai Airways,TH9910,Islamabad,Dubai,Via Strait of Hormuz,Via Red Sea–Suez route,8875,10453,1578,7252.82,4.4
+2026-03-06,Kuwait Airways,KU8305,Mumbai,Dubai,Via Strait of Hormuz,Via Red Sea–Suez route,7414,8686,1272,5963.71,0.8
+2026-03-06,Jazeera Airways,JA898,Mumbai,Dubai,Direct Middle East overfly,Via Central Asian detour,5801,7455,1654,10579.16,4.1
+2026-03-06,Etihad Airways,ET9134,London,Kuwait City,Via Strait of Hormuz,Via Red Sea–Suez route,4149,5225,1076,4001.44,4.0
+2026-03-06,American Airlines,AM2806,Dubai,Istanbul,Via Strait of Hormuz,Via Red Sea–Suez route,8027,8829,802,5026.64,3.5
+2026-03-06,Jazeera Airways,JA6444,Doha,London,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,8839,10185,1346,5632.65,2.7
+2026-03-06,Air India,AI9994,Dubai,Cairo,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,9951,12690,2739,15784.85,4.7
+2026-03-06,Jazeera Airways,JA2743,Paris,Beirut,Direct Tehran overfly,Via Ashgabat–Almaty route,8730,9776,1046,5530.3,3.5
+2026-03-06,Kuwait Airways,KU4507,Kuwait City,Mumbai,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,2325,3154,829,4674.82,1.8
+2026-03-06,Malaysia Airlines,MA6935,Paris,Beirut,Direct Middle East overfly,Via Central Asian detour,6966,8821,1855,7547.89,1.3
+2026-03-06,Delta Air Lines,DE3466,Dubai,Islamabad,Via Baghdad FIR,Via Ankara–Baku corridor,9840,11097,1257,6661.93,1.8
+2026-03-06,flydubai,FL7125,Paris,Doha,Direct Middle East overfly,Via Central Asian detour,9931,10974,1043,4185.28,3.0
+2026-03-06,DHL Aviation,DH3835,Mumbai,Kuwait City,Via Persian Gulf,Via Indian Ocean southern route,5700,7393,1693,6143.25,4.9
+2026-03-07,EgyptAir,EG7953,Dubai,Bahrain,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,9023,10856,1833,11550.69,4.4
+2026-03-07,Cargolux,CA7439,Islamabad,Riyadh,Direct Tehran overfly,Via Ashgabat–Almaty route,2994,4328,1334,9172.89,4.2
+2026-03-07,Jazeera Airways,JA1752,Paris,Beirut,Direct Gulf route,Via Jordan–Egypt alternate,7860,8857,997,3733.31,1.6
+2026-03-07,American Airlines,AM9643,Dubai,Delhi,Via Persian Gulf,Via Indian Ocean southern route,6053,8823,2770,18477.13,2.1
+2026-03-07,Singapore Airlines,SI2053,New York,Dubai,Via Persian Gulf,Via Indian Ocean southern route,10171,12375,2204,13891.52,2.7
+2026-03-07,DHL Aviation,DH2936,Dubai,Frankfurt,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,2755,5351,2596,10164.33,3.2
+2026-03-07,Etihad Airways,ET8005,Paris,Dubai,Via Persian Gulf,Via Indian Ocean southern route,6755,8432,1677,10757.51,1.5
+2026-03-07,American Airlines,AM9856,Muscat,London,Via Persian Gulf,Via Indian Ocean southern route,5237,6976,1739,6477.11,1.4
+2026-03-07,Gulf Air,GU1949,Dubai,Cairo,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,4940,6893,1953,10897.39,1.4
+2026-03-07,Qatar Airways,QA5866,Sydney,Abu Dhabi,Via Persian Gulf,Via Indian Ocean southern route,6323,8367,2044,10877.24,2.9
+2026-03-07,Ethiopian Airlines,ET3962,Doha,London,Via Strait of Hormuz,Via Red Sea–Suez route,2657,4024,1367,8808.63,1.0
+2026-03-07,Kuwait Airways,KU9519,Mumbai,Kuwait City,Direct Gulf route,Via Jordan–Egypt alternate,10135,10865,730,4473.81,0.9
+2026-03-07,Singapore Airlines,SI4793,Bahrain,Dubai,Via Persian Gulf,Via Indian Ocean southern route,9244,11175,1931,11423.41,1.2
+2026-03-07,EgyptAir,EG5554,Cairo,Riyadh,Via Baghdad FIR,Via Ankara–Baku corridor,5676,6761,1085,4219.21,0.9
+2026-03-07,Iran Air,IR9475,London,Bahrain,Via Baghdad FIR,Via Ankara–Baku corridor,9815,10763,948,3907.63,4.6
+2026-03-07,Turkish Airlines,TU9410,Doha,London,Direct Tehran overfly,Via Ashgabat–Almaty route,11968,12824,856,3947.82,3.0
+2026-03-07,EgyptAir,EG1870,Dubai,Karachi,Via Persian Gulf,Via Indian Ocean southern route,11292,14067,2775,10562.62,1.2
+2026-03-07,Emirates SkyCargo,EM2595,Riyadh,London,Direct Tehran overfly,Via Ashgabat–Almaty route,5208,6840,1632,10455.62,4.8
+2026-03-07,Etihad Airways,ET1153,Beijing,Tehran,Via Strait of Hormuz,Via Red Sea–Suez route,5849,6839,990,6462.93,2.2
+2026-03-07,United Airlines,UN2916,Cairo,Kuwait City,Direct Tehran overfly,Via Ashgabat–Almaty route,11594,12421,827,3871.36,2.1
+2026-03-07,Emirates SkyCargo,EM5735,New York,Doha,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,9737,11446,1709,8873.68,2.6
+2026-03-07,Air India,AI9295,Dubai,Frankfurt,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,2368,4244,1876,9382.43,4.3
+2026-03-07,Emirates,EM905,Beirut,Paris,Via Strait of Hormuz,Via Red Sea–Suez route,11832,12682,850,3949.31,4.0
+2026-03-07,Saudi Arabian Airlines,SA3515,Dubai,New York,Direct Middle East overfly,Via Central Asian detour,11850,12830,980,6817.47,3.7
+2026-03-08,Pakistan International Airlines,PA2794,Islamabad,Riyadh,Via Baghdad FIR,Via Ankara–Baku corridor,11007,12436,1429,6789.88,3.4
+2026-03-08,flydubai,FL6866,Abu Dhabi,London,Direct Gulf route,Via Jordan–Egypt alternate,7079,7805,726,3465.35,4.6
+2026-03-08,Qatar Airways,QA6596,Frankfurt,Dubai,Direct Middle East overfly,Via Central Asian detour,10989,13370,2381,9410.12,0.5
+2026-03-08,Thai Airways,TH4524,Beirut,Paris,Direct Tehran overfly,Via Ashgabat–Almaty route,5238,6388,1150,6095.67,1.8
+2026-03-08,Emirates SkyCargo,EM5515,Abu Dhabi,London,Via Persian Gulf,Via Indian Ocean southern route,10117,13087,2970,10875.5,2.1
+2026-03-08,Ethiopian Airlines,ET8286,Dubai,London,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,11028,13811,2783,10581.95,4.2
+2026-03-08,Emirates,EM2180,Doha,Paris,Via Persian Gulf,Via Indian Ocean southern route,6090,7391,1301,8255.63,3.9
+2026-03-08,Oman Air,OM6346,Dubai,Mumbai,Via Strait of Hormuz,Via Red Sea–Suez route,6783,7995,1212,6015.77,1.1
+2026-03-08,Cargolux,CA4940,Bahrain,Dubai,Via Baghdad FIR,Via Ankara–Baku corridor,9770,10931,1161,4681.03,2.6
+2026-03-08,EgyptAir,EG2891,Cairo,Riyadh,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,8553,10551,1998,13502.43,1.7
+2026-03-08,EgyptAir,EG5899,London,Muscat,Direct Middle East overfly,Via Central Asian detour,8288,9823,1535,8886.3,4.9
+2026-03-08,IndiGo,IN9613,Kuwait City,Cairo,Via Strait of Hormuz,Via Red Sea–Suez route,9468,10121,653,3225.05,2.2
+2026-03-08,Cathay Pacific,CA3092,Muscat,London,Direct Tehran overfly,Via Ashgabat–Almaty route,3568,5284,1716,9953.52,1.7
+2026-03-08,Cargolux,CA7620,Doha,Paris,Direct Middle East overfly,Via Central Asian detour,10234,11514,1280,6512.95,2.4
+2026-03-08,Thai Airways,TH7770,London,Riyadh,Via Persian Gulf,Via Indian Ocean southern route,2535,6003,3468,17348.62,1.3
+2026-03-08,Cathay Pacific,CA7881,Doha,Paris,Direct Tehran overfly,Via Ashgabat–Almaty route,8225,9155,930,4790.76,4.2
+2026-03-08,Ethiopian Airlines,ET9564,Dubai,Bahrain,Direct Tehran overfly,Via Ashgabat–Almaty route,5393,6624,1231,6218.23,3.2
+2026-03-08,FedEx Express,FE5425,Dubai,Frankfurt,Direct Tehran overfly,Via Ashgabat–Almaty route,4456,5751,1295,5452.39,2.4
+2026-03-08,Air India,AI6895,Washington,Abu Dhabi,Direct Gulf route,Via Jordan–Egypt alternate,8055,8877,822,3330.9,2.0
+2026-03-08,flydubai,FL1726,Islamabad,Dubai,Via Persian Gulf,Via Indian Ocean southern route,11854,14075,2221,11123.97,3.4
+2026-03-08,Lufthansa,LU7106,Dubai,Frankfurt,Via Strait of Hormuz,Via Red Sea–Suez route,6425,7122,697,4178.36,0.8
+2026-03-08,Iran Air,IR4624,Dubai,Frankfurt,Direct Tehran overfly,Via Ashgabat–Almaty route,10354,11132,778,5223.16,4.8
+2026-03-08,Lufthansa,LU135,Islamabad,Dubai,Direct Tehran overfly,Via Ashgabat–Almaty route,5237,6771,1534,6211.37,3.6
+2026-03-08,Air Arabia,AI7395,Tehran,Beijing,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,6897,9021,2124,13476.87,3.3
+2026-03-08,Kuwait Airways,KU6704,Doha,London,Via Baghdad FIR,Via Ankara–Baku corridor,10301,11308,1007,5395.76,1.0
+2026-03-08,Delta Air Lines,DE2147,Beirut,Paris,Direct Tehran overfly,Via Ashgabat–Almaty route,7006,8327,1321,8288.61,4.6
+2026-03-08,Jazeera Airways,JA236,Istanbul,Karachi,Direct Gulf route,Via Jordan–Egypt alternate,10942,11374,432,1881.08,4.8
+2026-03-08,Thai Airways,TH2291,Dubai,London,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,6816,7845,1029,4126.5,2.5
+2026-03-08,Jazeera Airways,JA1255,London,Riyadh,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,4482,7155,2673,18418.99,2.5
+2026-03-08,Delta Air Lines,DE4902,London,Bahrain,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,4027,6352,2325,8814.85,4.9
+2026-03-09,Malaysia Airlines,MA2743,Paris,Dubai,Via Persian Gulf,Via Indian Ocean southern route,4252,6441,2189,9659.19,2.8
+2026-03-09,Cathay Pacific,CA2450,Istanbul,Karachi,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,8244,9778,1534,10463.88,1.7
+2026-03-09,British Airways,BR6499,Tehran,Istanbul,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,5971,7173,1202,5776.1,4.2
+2026-03-09,Emirates,EM3569,Cairo,Kuwait City,Direct Gulf route,Via Jordan–Egypt alternate,10108,11011,903,3296.43,1.2
+2026-03-09,Kuwait Airways,KU9774,New York,Doha,Direct Tehran overfly,Via Ashgabat–Almaty route,6702,7742,1040,5052.82,0.7
+2026-03-09,Cargolux,CA6715,Sydney,Dubai,Direct Gulf route,Via Jordan–Egypt alternate,3455,4115,660,4547.6,3.1
+2026-03-09,Thai Airways,TH7507,Dubai,Mumbai,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,5108,6587,1479,7802.27,1.8
+2026-03-09,United Airlines,UN4228,Dubai,Amman,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,8249,10451,2202,10081.04,3.3
+2026-03-09,Singapore Airlines,SI8283,Lahore,Doha,Via Strait of Hormuz,Via Red Sea–Suez route,5703,7058,1355,7545.54,1.0
+2026-03-09,Lufthansa,LU5339,London,Doha,Direct Tehran overfly,Via Ashgabat–Almaty route,10793,12406,1613,7255.04,3.6
+2026-03-09,Kuwait Airways,KU4378,London,Riyadh,Direct Tehran overfly,Via Ashgabat–Almaty route,8083,9906,1823,10361.36,2.1
+2026-03-09,British Airways,BR7638,Tehran,Istanbul,Via Persian Gulf,Via Indian Ocean southern route,8622,11341,2719,10212.83,3.2
+2026-03-09,Cargolux,CA5368,Abu Dhabi,Sydney,Via Persian Gulf,Via Indian Ocean southern route,9901,11455,1554,8137.41,2.5
+2026-03-09,Ethiopian Airlines,ET4565,London,Dubai,Via Baghdad FIR,Via Ankara–Baku corridor,2262,3395,1133,4227.17,1.7
+2026-03-09,flydubai,FL1532,Mumbai,Doha,Direct Gulf route,Via Jordan–Egypt alternate,5039,5559,520,2233.78,2.7
+2026-03-09,flydubai,FL9350,Kuwait City,London,Direct Gulf route,Via Jordan–Egypt alternate,10109,11068,959,5450.54,1.9
+2026-03-09,Delta Air Lines,DE1252,Paris,Doha,Direct Gulf route,Via Jordan–Egypt alternate,4845,5681,836,3620.77,2.6
+2026-03-09,Qatar Airways,QA5131,London,Dubai,Direct Tehran overfly,Via Ashgabat–Almaty route,10092,11850,1758,7982.08,1.4
+2026-03-09,Air France,AI3562,New York,Doha,Via Persian Gulf,Via Indian Ocean southern route,3559,4992,1433,6314.27,1.2
+2026-03-09,Ethiopian Airlines,ET5257,Singapore,Dubai,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,2375,3917,1542,8358.52,3.9
+2026-03-09,Ethiopian Airlines,ET5318,Riyadh,Islamabad,Direct Tehran overfly,Via Ashgabat–Almaty route,11369,12338,969,5773.08,1.2
+2026-03-09,Turkish Airlines,TU7030,Doha,Los Angeles,Direct Tehran overfly,Via Ashgabat–Almaty route,10816,12281,1465,9019.38,1.4
+2026-03-09,Oman Air,OM8768,Paris,Doha,Direct Gulf route,Via Jordan–Egypt alternate,6472,7366,894,3648.07,3.6
+2026-03-09,British Airways,BR8059,London,Bahrain,Direct Gulf route,Via Jordan–Egypt alternate,4059,4733,674,3991.1,1.8
+2026-03-09,Iran Air,IR5005,Riyadh,Cairo,Via Baghdad FIR,Via Ankara–Baku corridor,6178,7673,1495,8319.24,1.5
+2026-03-09,Air India,AI356,Dubai,New York,Via Persian Gulf,Via Indian Ocean southern route,11046,14191,3145,12998.6,1.1
+2026-03-09,Pakistan International Airlines,PA5855,Dubai,Amman,Direct Middle East overfly,Via Central Asian detour,10179,11960,1781,7741.23,3.9
+2026-03-09,DHL Aviation,DH694,New York,Dubai,Direct Middle East overfly,Via Central Asian detour,2703,3796,1093,5893.24,2.9
+2026-03-09,Turkish Airlines,TU7833,Dubai,Delhi,Direct Middle East overfly,Via Central Asian detour,4334,6820,2486,11740.08,3.4
+2026-03-09,IndiGo,IN2068,London,Bahrain,Via Persian Gulf,Via Indian Ocean southern route,6293,7767,1474,9737.25,4.7
+2026-03-09,Iran Air,IR1909,Tehran,Istanbul,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,7019,9188,2169,13720.32,1.6
+2026-03-09,United Airlines,UN5015,Riyadh,London,Via Persian Gulf,Via Indian Ocean southern route,2463,4185,1722,9244.54,1.8
+2026-03-10,Qatar Airways,QA1589,Cairo,Riyadh,Via Strait of Hormuz,Via Red Sea–Suez route,2685,3909,1224,4417.24,3.3
+2026-03-10,Gulf Air,GU419,Abu Dhabi,Sydney,Via Persian Gulf,Via Indian Ocean southern route,7587,11037,3450,19939.16,3.3
+2026-03-10,Kuwait Airways,KU2881,New York,Doha,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,2913,4448,1535,9698.94,3.4
+2026-03-10,Cathay Pacific,CA3637,London,Singapore,Direct Middle East overfly,Via Central Asian detour,2828,3976,1148,7342.91,2.5
+2026-03-10,KLM,KL7863,Dubai,Karachi,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,4964,6263,1299,7933.97,1.6
+2026-03-10,Etihad Airways,ET2171,Dubai,Amman,Via Baghdad FIR,Via Ankara–Baku corridor,4107,5035,928,4939.01,0.5
+2026-03-10,Etihad Airways,ET2608,Istanbul,Delhi,Direct Middle East overfly,Via Central Asian detour,6222,8360,2138,14491.84,1.9
+2026-03-10,FedEx Express,FE3371,Singapore,London,Via Strait of Hormuz,Via Red Sea–Suez route,7466,9259,1793,10958.35,3.6
+2026-03-10,Jazeera Airways,JA3812,Karachi,Dubai,Via Persian Gulf,Via Indian Ocean southern route,9108,12187,3079,15413.96,1.8
+2026-03-10,Qatar Airways,QA8784,Mumbai,Kuwait City,Via Baghdad FIR,Via Ankara–Baku corridor,9234,10057,823,3923.62,2.4
+2026-03-10,Turkish Airlines,TU5008,Dubai,Mumbai,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,4100,6649,2549,13216.68,4.8
+2026-03-10,Gulf Air,GU9237,Islamabad,Riyadh,Via Persian Gulf,Via Indian Ocean southern route,5746,8829,3083,19344.42,2.5
+2026-03-10,British Airways,BR6001,Dubai,Islamabad,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,3221,4934,1713,6022.99,2.6
+2026-03-10,Qatar Airways,QA6877,Doha,New York,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,3335,5561,2226,14606.29,2.7
+2026-03-10,IndiGo,IN680,Dubai,Frankfurt,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,3014,4699,1685,6927.08,2.1
+2026-03-10,Thai Airways,TH7432,Doha,London,Via Strait of Hormuz,Via Red Sea–Suez route,8916,10251,1335,8727.51,1.5
+2026-03-10,Air Arabia,AI1628,Istanbul,Karachi,Direct Middle East overfly,Via Central Asian detour,5831,7889,2058,11906.51,1.3
+2026-03-10,Air India,AI6159,Cairo,Riyadh,Direct Tehran overfly,Via Ashgabat–Almaty route,8884,9595,711,3711.06,3.0
+2026-03-10,Mahan Air,MA7231,Bahrain,London,Via Strait of Hormuz,Via Red Sea–Suez route,5102,6897,1795,9688.45,4.3
+2026-03-10,Delta Air Lines,DE4616,Frankfurt,Dubai,Via Strait of Hormuz,Via Red Sea–Suez route,7370,8371,1001,4942.28,4.1
+2026-03-10,Iran Air,IR202,Doha,London,Direct Tehran overfly,Via Ashgabat–Almaty route,2004,2951,947,5496.96,0.6
+2026-03-10,Oman Air,OM1715,London,Doha,Via Strait of Hormuz,Via Red Sea–Suez route,3419,4356,937,6057.87,1.2
+2026-03-11,American Airlines,AM5718,Paris,Doha,Via Strait of Hormuz,Via Red Sea–Suez route,11552,13005,1453,8918.51,1.3
+2026-03-11,Pakistan International Airlines,PA6297,Beijing,Tehran,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,6536,8054,1518,6518.24,3.9
+2026-03-11,Delta Air Lines,DE8818,Karachi,Dubai,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,7941,8837,896,4891.83,0.7
+2026-03-11,Etihad Airways,ET214,London,Singapore,Via Strait of Hormuz,Via Red Sea–Suez route,2444,4192,1748,6902.13,0.5
+2026-03-11,Delta Air Lines,DE2232,London,Muscat,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,7661,8856,1195,6155.15,1.9
+2026-03-11,DHL Aviation,DH2927,Dubai,Frankfurt,Via Persian Gulf,Via Indian Ocean southern route,9507,12255,2748,19102.26,2.4
+2026-03-11,Etihad Airways,ET5811,Tehran,Beijing,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,4044,5519,1475,6267.3,2.3
+2026-03-11,Air India,AI2101,Karachi,Istanbul,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,3084,4241,1157,7570.99,1.0
+2026-03-11,American Airlines,AM2416,Frankfurt,Dubai,Via Strait of Hormuz,Via Red Sea–Suez route,2006,3493,1487,5307.26,3.8
+2026-03-11,Lufthansa,LU6307,Muscat,London,Via Iran/Iraq corridor,Via Egypt–East Africa southern route,6236,7684,1448,6518.04,4.8
+2026-03-11,KLM,KL5644,Sydney,Abu Dhabi,Via Baghdad FIR,Via Ankara–Baku corridor,4956,6179,1223,7178.21,4.9
+2026-03-11,Air India,AI446,New York,Dubai,Direct Gulf route,Via Jordan–Egypt alternate,4749,5229,480,2921.87,3.6
+2026-03-11,Emirates SkyCargo,EM8338,Kuwait City,Mumbai,Direct Gulf route,Via Jordan–Egypt alternate,6121,6523,402,1904.92,3.3
+2026-03-11,Emirates,EM3328,Karachi,Istanbul,Via Persian Gulf,Via Indian Ocean southern route,6354,7757,1403,8759.76,2.5
+2026-03-11,KLM,KL8482,Moscow,Tehran,Via Strait of Hormuz,Via Red Sea–Suez route,8054,9396,1342,5761.02,2.3
+2026-03-11,United Airlines,UN6020,Paris,Doha,Via Baghdad FIR,Via Ankara–Baku corridor,10330,10865,535,3666.97,4.3
+2026-03-11,Kuwait Airways,KU3474,London,Singapore,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,9271,10552,1281,5303.49,1.8
+2026-03-11,Iran Air,IR113,Doha,Los Angeles,Via Persian Gulf,Via Indian Ocean southern route,8322,10046,1724,9459.16,4.7
+2026-03-11,Malaysia Airlines,MA9325,Dubai,Istanbul,Via Strait of Hormuz,Via Red Sea–Suez route,9043,10193,1150,7138.22,4.1
+2026-03-11,Pakistan International Airlines,PA9429,Bahrain,Dubai,Direct Gulf route,Via Jordan–Egypt alternate,4021,4595,574,3559.66,2.4
+2026-03-11,Cathay Pacific,CA721,Sydney,Abu Dhabi,Direct Middle East overfly,Via Central Asian detour,11894,13011,1117,5253.28,0.6
+2026-03-11,Emirates,EM2813,Kuwait City,Cairo,Via Iran/Iraq corridor,Via Turkey–Kazakhstan northern route,9579,10582,1003,5170.49,1.6
+
