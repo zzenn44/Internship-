@@ -1,0 +1,8 @@
+Interpretation:
+Correlation heatmap shows strong positive relation between price variables such as 
+open high low close and next_day_close. Moving averages also show very high correlation
+with closing price. ATR indicators are strongly related to TrueRange showing volatility
+relationship. Volume shows negative correlation with price variables. Pairplot confirms
+strong linear relation between close and next_day_close while volume and ATR show skewed
+distribution. Some outliers are visible in volume and ATR columns. This analysis helps 
+identify important predictors for next day price.
